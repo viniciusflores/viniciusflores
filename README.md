@@ -19,7 +19,7 @@
 
 <h4>My favorite techs and tools: </h4>
 
-<div style="color:white">
+<div style="background:white">
   <a href="https://java.com/en/download/help/develop.html">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" alt="Java"/>
   </a>
