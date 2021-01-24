@@ -19,70 +19,71 @@
 
 <h4>My favorite techs and tools: </h4>
 
-<a href="https://java.com/en/download/help/develop.html">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" alt="Java"/>
-</a>
+<div style="color:white">
+  <a href="https://java.com/en/download/help/develop.html">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" alt="Java"/>
+  </a>
 
-<a href="https://javascript.info/js">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" alt="Javascript"/>
-</a>
+  <a href="https://javascript.info/js">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" alt="Javascript"/>
+  </a>
 
-<a href="https://www.selenium.dev/">
-<img height="32" width="32" src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium">
-</a>
+  <a href="https://www.selenium.dev/">
+  <img height="32" width="32" src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium">
+  </a>
 
-<a href="http://appium.io/">
-<img height="32" width="32" src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo-black-and-white.png" alt="Appium">
-</a>
+  <a href="http://appium.io/">
+  <img height="32" width="32" src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo-black-and-white.png" alt="Appium">
+  </a>
 
-<a href="https://www.cypress.io/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cypress.svg" alt="Cypress"/>
-</a>
+  <a href="https://www.cypress.io/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cypress.svg" alt="Cypress"/>
+  </a>
 
-<a href="https://reactjs.org/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" alt="React"/>
-</a>
+  <a href="https://reactjs.org/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" alt="React"/>
+  </a>
 
-<a href="https://nodejs.org/en/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" alt="Node"/>
-</a>
+  <a href="https://nodejs.org/en/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" alt="Node"/>
+  </a>
 
-<a href="https://www.typescriptlang.org/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" alt="Typescript"/>
-</a>
+  <a href="https://www.typescriptlang.org/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" alt="Typescript"/>
+  </a>
 
-<a href="https://git-scm.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" alt="Git"/>
-</a>
+  <a href="https://git-scm.com/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" alt="Git"/>
+  </a>
 
-<a href="https://www.jenkins.io/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" alt="Jenkins"/>
-</a>
+  <a href="https://www.jenkins.io/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" alt="Jenkins"/>
+  </a>
 
-<a href="https://www.docker.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" alt="Docker"/>
-</a>
+  <a href="https://www.docker.com/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" alt="Docker"/>
+  </a>
 
-<a href="https://www.postgresql.org/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/postgresql.svg" alt="Postgress"/>
-</a>
+  <a href="https://www.postgresql.org/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/postgresql.svg" alt="Postgress"/>
+  </a>
 
-<a href="https://www.mongodb.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" alt="MongoDb"/>
-</a>
+  <a href="https://www.mongodb.com/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" alt="MongoDb"/>
+  </a>
 
-<a href="https://www.postman.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/postman.svg" alt="Postman"/>
-</a>
+  <a href="https://www.postman.com/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/postman.svg" alt="Postman"/>
+  </a>
 
-<a href="https://ubuntu.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/ubuntu.svg" alt="Ubuntu"/>
-</a>
+  <a href="https://ubuntu.com/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/ubuntu.svg" alt="Ubuntu"/>
+  </a>
 
-<a href="https://code.visualstudio.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" alt="Visual Studio Code"/>
-</a>
-
+  <a href="https://code.visualstudio.com/">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" alt="Visual Studio Code"/>
+  </a>
+</div>
 <br/>  
 <br/>  
 
