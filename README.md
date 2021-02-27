@@ -2,7 +2,9 @@
 
 <h3>I'm Vinicius! But inevitably, I'm Vini too 😅</h3>
 
-<img width=50% style="float: right; margin-left: 50px;" src="https://media2.giphy.com/media/l4FGEU8ISIv6SGzL2/source.gif">
+<a href="https://www.hbo.com/silicon-valley" target="_blank">
+  <img width=50% style="float: right; margin-left: 50px;" src="https://media2.giphy.com/media/l4FGEU8ISIv6SGzL2/source.gif">
+</a>
 
 <h5>
   I'm a QA Engineer, focused on automated tests in the most diverse branches: Web, Mobile, Microservices, and Performance Tests.
