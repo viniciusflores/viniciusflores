@@ -85,8 +85,10 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" alt="Visual Studio Code"/>
 </a>
 
-<br/>  
-<br/>  
+<br/>
+<br/>
+
+![Snake animation](https://github.com/viniciusflores/viniciusflores/blob/output/github-contribution-grid-snake.svg)
 
 <details><summary>Some of my Github Public Stats:</summary>
 
