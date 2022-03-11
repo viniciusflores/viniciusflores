@@ -88,6 +88,8 @@
 <br/>
 <br/>
 
+Watch my contribution graph get eaten by the snake 🐍
+
 ![Snake animation](https://github.com/viniciusflores/viniciusflores/blob/output/github-contribution-grid-snake.svg)
 
 <details><summary>Some of my Github Public Stats:</summary>
