@@ -90,7 +90,7 @@
 
 Watch my contribution graph get eaten by the snake 🐍
 
-![Snake animation](https://github.com/viniciusflores/viniciusflores/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/viniciusflores/viniciusflores/blob/output/github-contribution-grid-snake-dark.svg)
 
 <details><summary>Some of my Github Public Stats:</summary>
 
@@ -105,4 +105,4 @@ Watch my contribution graph get eaten by the snake 🐍
 
 [![Years Badge](https://badges.pufler.dev/years/viniciusflores)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/viniciusflores)](https://badges.pufler.dev)
-![Profile views](https://gpvc.arturio.dev/viniciusflores)
+<!-- ![Profile views](https://gpvc.arturio.dev/viniciusflores) -->
