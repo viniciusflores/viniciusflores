@@ -1,108 +1,214 @@
-<h1> Hi there 👋</h1>
+<h1>Hi, I'm Vinicius 👋</h1>
 
-<h3>I'm Vinicius! But inevitably, I'm Vini too 😅</h3>
+<h3>Software Engineer | Quality Engineer | QA & SDET</h3>
 
-<a href="https://www.hbo.com/silicon-valley" target="_blank">
-  <img width=50% style="float: right; margin-left: 50px;" src="https://media2.giphy.com/media/l4FGEU8ISIv6SGzL2/source.gif">
-</a>
+<p>
+10+ years turning "does this work?" into shipped, reliable software.
+</p>
 
-<h5>
-  I'm a QA Engineer, focused on automated tests in the most diverse branches: Web, Mobile, Microservices, and Performance Tests.
-  <br/>
-  <br/>
-  I'm also curious about software development in general as well as practices of continuous delivery and integration.
-</h5>
+<p>
+I enjoy building reliable software with quality in mind from the start —
+from designing APIs and backend services to automated testing, CI/CD, observability, and infrastructure.
+</p>
 
-<h4>Connect with me: </h4>
+<p>
+Currently expanding my skills in <strong>Full-Stack Development</strong> and <strong>DevOps</strong>
+through hands-on projects and continuous learning.
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:viniciusflores379@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusflores379/ "Connect on LinkedIn")
-[![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=Github&logoColor=white)](https://www.github.com/viniciusflores/ "Connect on GitHub")
+---
 
-<h4>My favorite techs and tools: </h4>
+## 🚀 What I Do
 
-<a href="https://java.com/en/download/help/develop.html">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" alt="Java"/>
-</a>
+- 🧑‍💻 Build backend services, APIs, and full-stack applications
+- 🏗️ Design maintainable, scalable, and testable software
+- 🧪 Build automated testing across unit, API, integration, and E2E layers
+- ⚙️ Build CI/CD pipelines and developer tooling
+- ☁️ Work with cloud infrastructure, containers, and DevOps practices
+- 📊 Implement observability, monitoring, and performance testing
+- 🔍 Bring quality engineering practices throughout the software development lifecycle
 
-<a href="https://javascript.info/js">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" alt="Javascript"/>
-</a>
+---
 
-<a href="https://www.selenium.dev/">
-<img height="32" width="32" src="https://icon-library.com/images/selenium-icon/selenium-icon-12.jpg" alt="Selenium">
-</a>
+## 🛠️ Tech Stack
 
-<a href="http://appium.io/">
-<img height="32" width="32" src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo-black-and-white.png" alt="Appium">
-</a>
-
-<a href="https://www.cypress.io/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cypress.svg" alt="Cypress"/>
-</a>
-
-<a href="https://reactjs.org/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" alt="React"/>
-</a>
-
-<a href="https://nodejs.org/en/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" alt="Node"/>
-</a>
+### 💻 Languages
 
 <a href="https://www.typescriptlang.org/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" alt="Typescript"/>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/typescript.svg" alt="TypeScript"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/javascript.svg" alt="JavaScript"/>
+</a>
+<a href="https://www.python.org/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/python.svg" alt="Python"/>
+</a>
+<a href="https://www.java.com/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@3.13.0/icons/java.svg" alt="Java"/>
 </a>
 
-<a href="https://git-scm.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" alt="Git"/>
+### 🚀 Backend & Frontend
+
+<a href="https://nodejs.org/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/nodedotjs.svg" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/express.svg" alt="Express"/>
+</a>
+<a href="https://fastapi.tiangolo.com/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/fastapi.svg" alt="FastAPI"/>
+</a>
+<a href="https://react.dev/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/react.svg" alt="React"/>
+</a>
+<a href="https://www.prisma.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/prisma.svg" alt="Prisma"/>
 </a>
 
-<a href="https://www.jenkins.io/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" alt="Jenkins"/>
+### 🧪 Testing & Quality
+
+<a href="https://playwright.dev/">
+<img height="32" width="32" src="./assets/playwright.svg" alt="Playwright"/>
+</a>
+<a href="https://www.selenium.dev/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/selenium.svg" alt="Selenium"/>
+</a>
+<a href="https://www.cypress.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/cypress.svg" alt="Cypress"/>
+</a>
+<a href="https://webdriver.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/webdriverio.svg" alt="WebdriverIO"/>
+</a>
+<a href="https://appium.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/appium.svg" alt="Appium"/>
+</a>
+<a href="https://jestjs.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/jest.svg" alt="Jest"/>
+</a>
+<a href="https://vitest.dev/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/vitest.svg" alt="Vitest"/>
+</a>
+<a href="https://k6.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/k6.svg" alt="k6"/>
+</a>
+<a href="https://www.postman.com/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/postman.svg" alt="Postman"/>
 </a>
 
-<a href="https://www.docker.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" alt="Docker"/>
-</a>
+### 🗄️ Databases & Messaging
 
 <a href="https://www.postgresql.org/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/postgresql.svg" alt="Postgress"/>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/postgresql.svg" alt="PostgreSQL"/>
 </a>
-
 <a href="https://www.mongodb.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" alt="MongoDb"/>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/mongodb.svg" alt="MongoDB"/>
+</a>
+<a href="https://redis.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/redis.svg" alt="Redis"/>
+</a>
+<a href="https://aws.amazon.com/dynamodb/">
+<img height="32" width="32" src="./assets/amazondynamodb.svg" alt="DynamoDB"/>
+</a>
+<a href="https://kafka.apache.org/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/apachekafka.svg" alt="Kafka"/>
 </a>
 
-<a href="https://www.postman.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/postman.svg" alt="Postman"/>
-</a>
+### ☁️ Cloud & Infrastructure
 
+<a href="https://aws.amazon.com/">
+<img height="32" width="32" src="./assets/aws.svg" alt="AWS"/>
+</a>
+<a href="https://www.docker.com/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/docker.svg" alt="Docker"/>
+</a>
+<a href="https://kubernetes.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/kubernetes.svg" alt="Kubernetes"/>
+</a>
+<a href="https://www.terraform.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/terraform.svg" alt="Terraform"/>
+</a>
 <a href="https://ubuntu.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/ubuntu.svg" alt="Ubuntu"/>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/ubuntu.svg" alt="Ubuntu"/>
 </a>
 
-<a href="https://code.visualstudio.com/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" alt="Visual Studio Code"/>
+### 🔄 CI/CD & Version Control
+
+<a href="https://git-scm.com/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/git.svg" alt="Git"/>
+</a>
+<a href="https://github.com/features/actions">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/githubactions.svg" alt="GitHub Actions"/>
+</a>
+<a href="https://about.gitlab.com/solutions/continuous-integration/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/gitlab.svg" alt="GitLab CI"/>
+</a>
+<a href="https://www.jenkins.io/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v16/icons/jenkins.svg" alt="Jenkins"/>
 </a>
 
-<br/>
-<br/>
+### 📊 Observability
 
-Watch my contribution graph get eaten by the snake 🐍
+<a href="https://grafana.com/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/grafana.svg" alt="Grafana"/>
+</a>
+<a href="https://newrelic.com/">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/newrelic.svg" alt="New Relic"/>
+</a>
 
-![Snake animation](https://github.com/viniciusflores/viniciusflores/blob/output/github-contribution-grid-snake-dark.svg)
+---
 
-<details><summary>Some of my Github Public Stats:</summary>
+## 🧪 Testing Philosophy
 
-  [![Viniciusflores's github stats](https://github-readme-stats.vercel.app/api?username=viniciusflores&count_private=true&show_icons=true&include_all_commits&show_owner)](https://github.com/viniciusflores/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusflores&count_private=true&layout=compact)](https://github.com/viniciusflores/github-readme-stats)
+> Quality isn't just testing — it's built into software from the start.
 
-  [![Git trophy's](https://github-profile-trophy.vercel.app/?username=viniciusflores)](https://github.com/ryo-ma/github-profile-trophy)
+I believe QA and engineering should work together throughout the development lifecycle rather than treating testing as the final step before release.
 
-  [![GitHub metrics](https://metrics.lecoq.io/viniciusflores?template=terminal&followup=1&isocalendar=1)](https://github.com/lowlighter/metrics)
+My approach combines:
+
+**Development → Testability → Automation → CI/CD → Observability → Continuous Quality**
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Backend architecture
+- Distributed systems
+- Cloud-native development
+- Kubernetes
+- Infrastructure as Code
+- Observability
+- Performance testing
+- Event-driven architectures
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities involving **Software Engineering, Backend Engineering, QA Engineering, SDET, and Quality Engineering**.
+
+<a href="https://www.linkedin.com/in/viniciusflores379">
+<img height="32" width="32" src="./assets/linkedin.svg" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:viniciusflores379@gmail.com">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/gmail.svg" alt="Email"/>
+</a>
+
+---
+
+⭐ Feel free to explore my repositories and projects.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+<br>
+
+![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusflores&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusflores&layout=compact&count_private=true)
 
 </details>
 
-[![Years Badge](https://badges.pufler.dev/years/viniciusflores)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/viniciusflores)](https://badges.pufler.dev)
-<!-- ![Profile views](https://gpvc.arturio.dev/viniciusflores) -->
+### 🐍 Watch my contribution graph get eaten by the snake
+
+![Snake animation](https://github.com/viniciusflores/viniciusflores/blob/output/github-contribution-grid-snake-dark.svg)
