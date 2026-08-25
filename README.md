@@ -110,7 +110,7 @@ through hands-on projects and continuous learning.
 <img height="32" width="32" src="./assets/amazondynamodb.svg" alt="DynamoDB"/>
 </a>
 <a href="https://kafka.apache.org/">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@16.21.0/icons/apachekafka.svg" alt="Kafka"/>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@16.28.0/icons/apachekafka.svg" alt="Kafka"/>
 </a>
 
 ### ☁️ Cloud & Infrastructure
@@ -197,17 +197,6 @@ I'm interested in opportunities involving **Software Engineering, Backend Engine
 ---
 
 ⭐ Feel free to explore my repositories and projects.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-<br>
-
-![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusflores&show_icons=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusflores&layout=compact&count_private=true)
-
-</details>
 
 ### 🐍 Watch my contribution graph get eaten by the snake
 
